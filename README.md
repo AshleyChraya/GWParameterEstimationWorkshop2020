@@ -1,5 +1,5 @@
 # GW Parameter Estimation Workshop 2020
-This forked repo contains some of my experiment with codes (adding some codes inspired from the original ones, altering original codes for better understanding etc.) in the original repo. Nothing novel from my own side is added to this already excellent set of lectures stitched together by Dr. Greg Ashton.
+This forked repo contains some of my experiment with codes (adding some codes inspired from the original ones, altering original codes for better understanding etc.) in the original repo. Nothing novel from my own side is added nor should be expected to this already excellent set of lectures stitched together by Dr. Greg Ashton.
 
 
 
