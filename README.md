@@ -1,4 +1,8 @@
 # GW Parameter Estimation Workshop 2020
+This forked repo contains some of my experiment with codes (adding some codes inspired from the original ones, altering original codes for better understanding etc.) in the original repo. Nothing novel from my side is added nor should be expected to this already excellent set of lectures stitched together by Dr. Greg Ashton.
+
+
+
 Repository of materials for the August GW Parameter Estimation workshop on behalf of the Astrophysical Relativity group at ICTS-TIFR in Bangalore, India, as well as the larger Indian GW community.
 
 ## Overview
